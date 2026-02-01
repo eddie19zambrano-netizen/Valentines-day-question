@@ -15,9 +15,8 @@ body {
     height: 100vh; /* Make the container full viewport height */
 }
 
-#image-container 
-{
-    display: flex;  /* This container will hold the images */
+#image-container {
+    /* This container will hold the images */
 }
 
 #question {
